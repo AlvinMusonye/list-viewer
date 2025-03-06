@@ -5,6 +5,12 @@ const booksData = [
   { id: 1, title: "The Great Gatsby", author: "F. Scott Fitzgerald" },
   { id: 2, title: "1984", author: "George Orwell" },
   { id: 3, title: "To Kill a Mockingbird", author: "Harper Lee" },
+  {id: 4, title:"Matatu Culture", author:"Alvinjr101"},
+  {id: 5, title:"Bad Morning", author:"Nba Youngboy"},
+  {id: 6, title:"Matatu C", author:"Alvinjr101"},
+  {id: 7, title:"Rong Cypher", author:"Wakadinali"},
+  {id:8, title:"morning Coffe", author:"Melivia"},
+  {id: 9, title:"Africa", author:"Malcom X"},
 ];
 
 const BookList = () => {
